@@ -1,0 +1,10 @@
+{
+  "author" : "rl.starbound",
+  "description" : "This mod alters base game mech drones (Plasma Drone Mech Arm and Swarm Drone Mech Arch) so that they will only target aggressive monsters or NPCs. While they will no longer target passive monsters and neutral NPCs, they may accidentally hit those entities during combat, which may cause those entities to become aggressive, at which point the drones will target them.",
+  "friendlyName" : "Less Awful Mech Drones",
+  "link" : "steam://url/CommunityFilePage/3516850077",
+  "name" : "rl_lessawfulmechdrones",
+  "steamContentId" : "3516850077",
+  "tags" : "Mechanics|Vehicles and Mounts",
+  "version" : "1.0.0"
+}

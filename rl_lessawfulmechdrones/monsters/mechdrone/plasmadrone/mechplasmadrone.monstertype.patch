@@ -1,0 +1,10 @@
+[
+  { "op" : "test",
+    "path" : "/baseParameters/scripts/0",
+    "value" : "/monsters/mechdrone/drone.lua"
+  },
+  { "op" : "add",
+    "path" : "/baseParameters/scripts/-",
+    "value" : "/monsters/mechdrone/rl_lessawfulmechdrones_drone.lua"
+  }
+]
